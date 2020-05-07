@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AC24E049-44A9-4A0C-AE9C-2FA98D6EA95A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="new_work/Program.cs">
+    <Files>
+      <File FileName="new_work/Program.cs" Line="98" Column="1" />
+      <File FileName="../../../../usr/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2130" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.new__work PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/mioner/Projects/new_work/new_work/Program.cs" relfile="new_work/Program.cs" line="119" column="1" />
+      <Breakpoint file="/home/mioner/Projects/new_work/new_work/Program.cs" relfile="new_work/Program.cs" line="115" column="1" />
+      <Breakpoint file="/home/mioner/Projects/new_work/new_work/Program.cs" relfile="new_work/Program.cs" line="87" column="1" />
+      <Breakpoint file="/home/mioner/Projects/new_work/new_work/Program.cs" relfile="new_work/Program.cs" line="94" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

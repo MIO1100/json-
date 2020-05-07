@@ -1,0 +1,10 @@
+/home/mioner/Projects/new_work/new_work/obj/x86/Debug/new_work.csprojAssemblyReference.cache
+/home/mioner/Projects/new_work/new_work/obj/x86/Debug/new_work.csproj.CoreCompileInputs.cache
+/home/mioner/Projects/new_work/new_work/bin/Debug/new_work.exe
+/home/mioner/Projects/new_work/new_work/bin/Debug/new_work.pdb
+/home/mioner/Projects/new_work/new_work/obj/x86/Debug/new_work.exe
+/home/mioner/Projects/new_work/new_work/obj/x86/Debug/new_work.pdb
+/home/mioner/Projects/new_work/new_work/bin/Debug/System.Xml.Linq.dll
+/home/mioner/Projects/new_work/new_work/obj/x86/Debug/new_work.csproj.CopyComplete
+/home/mioner/Projects/new_work/new_work/bin/Debug/System.IO.Compression.dll
+/home/mioner/Projects/new_work/new_work/bin/Debug/System.IO.Compression.ZipFile.dll
